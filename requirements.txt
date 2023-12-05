@@ -1,0 +1,6 @@
+datasets==2.15.0
+torch==2.1.0
+gensim==4.3.2
+numpy==1.23.5
+matplotlib==3.7.1
+scikit-learn==1.2.2
